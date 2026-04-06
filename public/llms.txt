@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+סטודיו טסלר יוצר סרטוני תדמית לעסקים עם חזון ויזואלי ייחודי שמבדל אתכם מהמתחרים. עיצוב יצירתי, סיפור חזותי מרתק ותוצאות שמדברות בעד עצמן. גלו את ההבדל.
+
+### שירותים
+https://example.com/services
+מעיצוב סרטון פרסומי לעסק קטן ועד הפקות תדמית מורכבות לחברות — סטודיו טסלר מציע מגוון שלם של פתרונות וידאו ועיצוב ויזואלי שמותאמים בדיוק לצרכים שלכם. בדקו מה אנחנו יכולים לעשות.
+
+### אודות
+https://example.com/about
+סטודיו טסלר נולד מתוך אהבה עמוקה לעיצוב ויזואלי ולסיפור חזותי שבוקע מהמסך. גלו מי אנחנו, מה מניע אותנו ולמה עסקים ולקוחות פרטיים בוחרים בנו שוב ושוב ליצור את הסרטון שמייצג אותם.
+
+### צור קשר
+https://example.com/contact
+רוצים סרטון פרסום שיגרום לקהל שלכם לעצור ולהקשיב? צרו קשר עם סטודיו טסלר עוד היום ונבנה יחד את הפתרון הוויזואלי שיקחו את העסק שלכם לשלב הבא. אנחנו כאן ומחכים לשמוע מכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
